@@ -1,0 +1,5 @@
+Credentials cache: API:2328E9EB-4B11-4459-A179-13DF3B37724F
+        Principal: mudanaci@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 22 22:39:15 2021  Oct 23 08:38:55 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
